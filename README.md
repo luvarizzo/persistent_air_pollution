@@ -15,8 +15,8 @@ Data provided by CETESB (Sao Paulo State Environmental Agency), IAG meteorologic
 
 -----------------------
 File description:
-O3_max_day_mavg.csv: daily time series of O3 maximum concentration from 8h moving averages in selected air quality stations. Input to the script find_PEE.R 
-PM10_max_day_mavg.csv: daily time series of PM10 maximum concentration from 24h moving averages in selected air quality stations. Input to the script find_PEE.R 
+O3_max_day_mavg.csv: daily time series of O3 maximum concentration from 8h moving averages in selected air quality stations, in ug/m3. Input to the script find_PEE.R 
+PM10_max_day_mavg.csv: daily time series of PM10 maximum concentration from 24h moving averages in selected air quality stations, in ug/m3. Input to the script find_PEE.R 
 pee_o3_classification.csv: classification of days into event and non-event days for O3. Output of the script find_PEE.R.
 pee_pm10_classification.csv: classification of days into event and non-event days for PM10. Output of the script find_PEE.R.
 pee_o3_list.csv: list of O3 PEE. Output of the script find_PEE.R.
