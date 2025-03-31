@@ -15,15 +15,24 @@ Data provided by CETESB (Sao Paulo State Environmental Agency), IAG meteorologic
 
 -----------------------
 File description:
+
 O3_max_day_mavg.csv: daily time series of O3 maximum concentration from 8h moving averages in selected air quality stations, in ug/m3. Input to the script find_PEE.R 
+
 PM10_max_day_mavg.csv: daily time series of PM10 maximum concentration from 24h moving averages in selected air quality stations, in ug/m3. Input to the script find_PEE.R 
+
 pee_o3_classification.csv: classification of days into event and non-event days for O3. Output of the script find_PEE.R.
+
 pee_pm10_classification.csv: classification of days into event and non-event days for PM10. Output of the script find_PEE.R.
+
 pee_o3_list.csv: list of O3 PEE. Output of the script find_PEE.R.
+
 pee_pm10_list.csv: list of O3 PEE. Output of the script find_PEE.R.
+
 meteo_IAG_PBL_2005-2022.csv: daily time series of meteorological variables.
 
 -----------------------
 Related publications:
+
 1. Rizzo, L. V. & Miranda, A. G. B. Short term forecasting of persistent air quality deterioration events in the metropolis of Sao Paulo. Urban Clim. 55, (2024), https://doi.org/10.1016/j.uclim.2024.101876.
-2. Oliveira, M. C. Q. D., Drumond, A. & Rizzo, L. V. Air pollution persistent exceedance events in the Brazilian metropolis of Sao Paulo and associated surface weather patterns. Int. J. Environ. Sci. Technol. 19, 9495–9506 (2022), https://doi.org/10.1007/s13762-021-03778-1
+  
+2.  Oliveira, M. C. Q. D., Drumond, A. & Rizzo, L. V. Air pollution persistent exceedance events in the Brazilian metropolis of Sao Paulo and associated surface weather patterns. Int. J. Environ. Sci. Technol. 19, 9495–9506 (2022), https://doi.org/10.1007/s13762-021-03778-1
